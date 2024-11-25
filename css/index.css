@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #972d2d;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+h1 {
+    color: #272525;
+}
+
+a {
+    text-decoration: none;
+    color: #a40b0b;
+    font-size: 20px;
+    border: 5px solid #fc0b0b;
+    padding: 10px;
+}
+
+a:hover {
+    color: #fefcfc;
+}
+
+div {
+    margin: 20px;
+}
